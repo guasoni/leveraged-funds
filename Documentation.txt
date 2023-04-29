@@ -1,0 +1,13 @@
+*The file Figures_1_to_5.sce is a SCILAB script that
+allows to compute the optimal trading boundaries along with
+some performance statistics. It produces all plots but the last one
+in the paper Leveraged Funds: "Robust Replication
+and Performance evaluation". (Figures 1 to 5)
+
+Different Figures use a different range of gamma (aversion to tracking error), and different choices
+of multipliers. For Figures 1,2 and 4, 5 we provide the files with trading boundaries; these can be 
+reproduced by uncommenting some lines in the script.
+
+For Figure 3, the script computes trading boundaries and R2 for gamma=0.5 and 1 directly.
+
+* The file Figure_6.sce produces the final Figure 6.
