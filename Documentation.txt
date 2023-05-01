@@ -1,0 +1,6 @@
+File 1 computes first order approximations of the trading boundaries for small transaction cost parameter,
+eq. (3.8), and also for non-zero risk-premia (the two are the same).
+
+File 2 computes second order proxies, eq. (3.8), and for non-zero risk premia.
+
+File 3 computes asymptotics of Performance figures in Theorem 3.1, equations (3.9) to (3.13).
