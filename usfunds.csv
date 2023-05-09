@@ -1,0 +1,56 @@
+Underlying,Factor,Ticker, Expenses 
+S&P 500,-3,SPXU,0.0092
+S&P 500,-2,SDS,0.0089
+S&P 500,-1,SH,0.0089
+S&P 500,1,SPY,0.0009
+S&P 500,2,SSO,0.0089
+S&P 500,3,UPRO,0.0095
+Dow Jones Financials,-3,FAZ,0.0095
+Dow Jones Financials,-2,SKF,0.0095
+Dow Jones Financials,-1,SEF,0.0095
+Dow Jones Financials,1,IYF,0.0043
+Dow Jones Financials,2,UYG,0.0095
+Dow Jones Financials,3,FAS,0.0095
+Dow Jones Real Estate,-3,DRV,0.0095
+Dow Jones Real Estate,-2,SRS,0.0095
+Dow Jones Real Estate,-1,REK,0.0095
+Dow Jones Real Estate,1,IYR,0.0043
+Dow Jones Real Estate,2,URE,0.0095
+Dow Jones Real Estate,3,DRN,0.0095
+MSCI Emerging Markets,-3,EDZ,0.0095
+MSCI Emerging Markets,-2,EEV,0.0095
+MSCI Emerging Markets,-1,EUM,0.0095
+MSCI Emerging Markets,1,EEM,0.0067
+MSCI Emerging Markets,2,EET,0.0095
+MSCI Emerging Markets,3,EDC,0.0095
+Dow Jones Industrial,-3,SDOW,0.0095
+Dow Jones Industrial,-2,DXD,0.0095
+Dow Jones Industrial,-1,DOG,0.0095
+Dow Jones Industrial,1,DIA,0.0017
+Dow Jones Industrial,2,DDM,0.0095
+Dow Jones Industrial,3,UDOW,0.0095
+S&P Midcap 400,-3,SMDD,0.0095
+S&P Midcap 400,-2,MZZ,0.0095
+S&P Midcap 400,-1,MYY,0.0095
+S&P Midcap 400,1,MDY,0.0025
+S&P Midcap 400,2,MVV,0.0095
+S&P Midcap 400,3,UMDD,0.0095
+Barclays 20+ Treasury,-3,TTT,0.0095
+Barclays 20+ Treasury,-2,TBT,0.0092
+Barclays 20+ Treasury,-1,TBF,0.0093
+Barclays 20+ Treasury,1,TLT,0.0015
+Barclays 20+ Treasury,2,UBT,0.0095
+Barclays 20+ Treasury,3,TMF,0.0095
+Nasdaq 100,-3,SQQQ,0.0095
+Nasdaq 100,-2,QID,0.0095
+Nasdaq 100,-1,PSQ,0.0095
+Nasdaq 100,1,QQQ,0.002
+Nasdaq 100,1,QQQQ,0.002
+Nasdaq 100,2,QLD,0.0095
+Nasdaq 100,3,TQQQ,0.0095
+Russel 2000,-3,TZA,0.0095
+Russel 2000,-2,TWM,0.0095
+Russel 2000,-1,RWM,0.0095
+Russel 2000,1,IWM,0.002
+Russel 2000,2,UWM,0.01
+Russel 2000,3,TNA,0.0095
